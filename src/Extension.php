@@ -1,6 +1,6 @@
 <?php
 
-namespace acalvino4\embed;
+namespace acalvino4\nullsafe;
 
 use acalvino4\nullsafe\node\expression\Nullsafe;
 use Twig\ExpressionParser;
