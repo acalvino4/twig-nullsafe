@@ -8,7 +8,7 @@ The nullsafe (also called "optional chaining") operator exists in PHP 8 and many
 ![Phpstan Level](https://img.shields.io/badge/PHPStan-level%208-brightgreen.svg)
 ![Easy Coding Standard](https://img.shields.io/badge/Easy%20Coding%20Standard-%20enabled-brightgreen.svg)
 
-> **Info**
+> **Note**
 > By building and testing this POC, I came to understand the existing behavior and abilities of Twig better, and decided that this functionality is not actually that valuable relative to what's possible already. Hence, I will not be developing this any more unless convinced otherwise. Read my reasoning [here](https://github.com/twigphp/Twig/issues/3260#issuecomment-1540765585).
 >
 > There are also probably a lot of edge cases that this doesn't handle quite right, so while it is not recommended for production, perhaps it will inspire a more robust implementation.

@@ -1,6 +1,6 @@
 {
   "name": "acalvino4/twig-nullsafe",
-  "description": "Adds a nullsafe operator '?.' to twig.",
+  "description": "Adds a nullsafe operator, '?.', to twig.",
   "version": "0.1.0",
   "homepage": "https://github.com/acalvino4/twig-nullsafe",
   "license": "mit",
