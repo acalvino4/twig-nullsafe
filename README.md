@@ -3,7 +3,7 @@
 The nullsafe (also called "optional chaining") operator exists in PHP 8 and many other programming language, but not twig. The aim of this package was to bring it's convenience to twig as well. See [discussion](https://github.com/twigphp/Twig/issues/3260).
 
 ![License](https://img.shields.io/github/license/acalvino4/twig-nullsafe)
-![Build Status](https://img.shields.io/github/actions/workflow/status/acalvino4/nullsafe/qa.yml)
+![Build Status](https://img.shields.io/github/actions/workflow/status/acalvino4/twig-nullsafe/qa.yml)
 
 ![Phpstan Level](https://img.shields.io/badge/PHPStan-level%208-brightgreen.svg)
 ![Easy Coding Standard](https://img.shields.io/badge/Easy%20Coding%20Standard-%20enabled-brightgreen.svg)
